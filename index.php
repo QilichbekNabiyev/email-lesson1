@@ -10,6 +10,7 @@
             <label>quantity:</label><br>
             <input type="text" name="quantity">
             <input type="submit" value="total">
+            fdghiusrngsun
         </form>
   </body>
   </html>
